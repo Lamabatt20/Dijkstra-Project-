@@ -1,0 +1,255 @@
+52 202
+Moscow 55.755826 37.617300
+Jerusalem 26.768319 29.213710
+Dakar 14.716677 -17.467686
+New_Delhi 20.613930 77.208828
+Valletta 28.899238 20.514100
+Nuuk 64.174323 -51.737279
+Canberra -28.280184 149.131033
+Tirana 39.327546 16.818698
+Ottawa 45.420057 -88.700340
+Reykjav 60.146987 -25.940755
+Washington 36.907192 -99.036871
+Seoul 37.551890 126.991794
+Bras­lia -13.797515 -60.891887
+Santiago -30.448890 -88.669266
+Mexico 23.629008 -120.548245
+Paris 38.857547 0.321377
+Rome 32.896707 8.482203
+Ulaanbaatar 45.922049 106.915469
+Oslo 57.913869 1.552245
+Beijing 39.904305 116.406795
+Rabat 26.008364 -15.853871
+Jakarta -4.194449 112.822920
+Kuala_Lumpur 6.131920 105.684059
+Buenos_Aires -34.603685 -79.381559
+Kyiv 43.450359 25.524503
+Khartoum 15.597431 25.535587 
+Antananarivo -15.918461 40.521129
+Lima -10.046690 -90.043046
+Tehran 28.721858 51.334695
+Ankara 34.933363 29.859742
+Caracas 8.480594 -82.903606
+Stockholm 64.329316 8.068555
+Windhoek -14.564935 11.084214
+Cape_Town -23.921385 18.421006
+Madrid 32.416775 -11.703790 
+Athens 30.983810 15.727539
+Lisbon 34.722196 -18.139307
+Tbilisi 41.693823 37.801615
+Addis_Ababa 6.019201 38.752460
+Nairobi -0.192060 30.821947
+Yaoundé 3.861685 11.520229
+Havana 19.113657 -98.365440
+Algeria 22.033885 0.359626
+Quito -0.180519 -95.466847
+Gaborone -17.658000 15.907704
+Sofia 36.697708 17.321868
+Tunisia 27.886916 3.537498
+Islamabad 28.699509 70.036289
+Djibouti 10.826170 39.591670
+Colombo 6.927079 79.861240
+xx 56.0 55.0
+xx Madrid
+Moscow Jerusalem
+Moscow Dakar
+Moscow New_Delhi
+Moscow Valletta
+Moscow Nuuk
+Algeria Moscow
+Jerusalem Canberra
+Jerusalem Tirana
+Jerusalem Ottawa
+Jerusalem Reykjav
+Jerusalem Washington
+Dakar Seoul
+Dakar Bras­lia
+Dakar Santiago
+Dakar Mexico
+Dakar Paris
+New_Delhi Rome
+New_Delhi Ulaanbaatar
+New_Delhi Oslo
+New_Delhi Beijing
+New_Delhi Rabat
+Valletta Jakarta
+Valletta Kuala_Lumpur
+Valletta Buenos_Aires
+Valletta Kyiv
+Valletta Khartoum
+Nuuk Antananarivo
+Nuuk Lima
+Nuuk Tehran
+Nuuk Ankara
+Nuuk Caracas
+Canberra Stockholm
+Canberra Windhoek
+Canberra Cape_Town
+Canberra Madrid
+Canberra Athens
+Tirana Tbilisi
+Tirana Addis_Ababa
+Tirana Nairobi
+Tirana Yaoundé
+Tirana Havana
+Ottawa Algeria
+Ottawa Quito
+Ottawa Gaborone
+Ottawa Sofia
+Ottawa Tunisia
+Reykjav Islamabad
+Reykjav Djibouti
+Reykjav Colombo
+Washington Paris
+Washington Rome
+Washington Ulaanbaatar
+Washington Oslo
+Washington Beijing
+Seoul Rabat
+Seoul Lisbon
+Seoul Kuala_Lumpur
+Seoul Buenos_Aires
+Seoul Kyiv
+Bras­lia Khartoum
+Bras­lia Antananarivo
+Bras­lia Lima
+Bras­lia Tehran
+Bras­lia Ankara
+Santiago Caracas
+Santiago Stockholm
+Santiago Windhoek
+Santiago Cape_Town
+Santiago Madrid
+Mexico Athens
+Mexico Tbilisi
+Mexico Addis_Ababa
+Mexico Nairobi
+Mexico Yaoundé
+Paris Havana
+Paris Algeria
+Paris Quito
+Paris  Gaborone
+Paris Sofia
+Rome Tunisia
+Rome Islamabad
+Rome Djibouti
+Rome Colombo
+Ulaanbaatar Athens
+Ulaanbaatar Tbilisi
+Ulaanbaatar Addis_Ababa
+Ulaanbaatar Nairobi
+Ulaanbaatar Yaoundé
+Oslo Havana
+Oslo Algeria
+Oslo Quito
+Oslo Gaborone
+Oslo Sofia
+Beijing Tunisia
+Beijing Islamabad
+Beijing Djibouti
+Beijing Colombo
+Rabat Athens
+Rabat Gaborone
+Rabat Addis_Ababa
+Rabat Nairobi
+Rabat Yaoundé
+Jakarta Havana
+Jakarta Algeria
+Lisbon Quito
+Lisbon Gaborone
+Lisbon Sofia
+Kuala_Lumpur Tunisia 
+Kuala_Lumpur Islamabad
+Kuala_Lumpur Djibouti
+Kuala_Lumpur Colombo
+Buenos_Aires Athens
+Buenos_Aires Tbilisi
+Buenos_Aires Addis_Ababa
+Buenos_Aires Nairobi
+Buenos_Aires Yaoundé
+Kyiv Havana
+Kyiv Algeria
+Kyiv Quito
+Kyiv Gaborone
+Kyiv Sofia
+Khartoum Tunisia
+Khartoum Islamabad
+Khartoum Djibouti
+Khartoum Colombo
+Antananarivo Athens
+Antananarivo Tbilisi
+Antananarivo Addis_Ababa
+Antananarivo Nairobi
+Antananarivo Tunisia
+Lima Havana
+Lima Algeria
+Lima Quito
+Lima Gaborone
+Lima Sofia
+Tehran Tunisia
+Tehran Islamabad
+Tehran Djibouti
+Tehran Colombo
+Ankara Athens
+Ankara Tbilisi
+Ankara Addis_Ababa
+Ankara Nairobi
+Ankara Yaoundé
+Caracas Havana
+Caracas Algeria
+Caracas Quito
+Caracas Gaborone
+Caracas Sofia
+Stockholm Tunisia
+Stockholm Islamabad
+Stockholm Djibouti
+Stockholm Colombo
+Windhoek Athens
+Windhoek Tbilisi 
+Windhoek Addis_Ababa
+Windhoek Nairobi
+Windhoek Yaoundé
+Cape_Town Havana
+Cape_Town Algeria
+Cape_Town Quito
+Cape_Town Gaborone
+Cape_Town Sofia
+Madrid Tunisia
+Madrid Islamabad
+Madrid Djibouti
+Madrid Colombo
+Athens Havana
+Athens Algeria
+Athens Quito
+Athens Sana'a
+Tbilisi Sofia
+Tbilisi Islamabad
+Tbilisi Djibouti
+Tbilisi Colombo
+Addis_Ababa Havana
+Addis_Ababa Algeria
+Addis_Ababa Quito
+Addis_Ababa  Gaborone
+Addis_Ababa Sofia
+Nairobi Tunisia
+Nairobi Islamabad
+Nairobi Djibouti
+Nairobi Colombo
+Yaoundé Athens
+Yaoundé Tbilisi
+Yaoundé Addis_Ababa
+Yaoundé Nairobi
+Havana Stockholm
+Havana Tehran
+Havana Colombo
+Algeria Tunisia
+Algeria Windhoek
+Algeria Cape_Town
+Quito Washington
+Quito Rome
+Quito Sydney
+Gaborone Valletta
+Gaborone Lima
+Sofia Helsinki
+Sofia Rabat
+
